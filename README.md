@@ -1,26 +1,26 @@
-##Recipe Finder 🍳
+# Recipe Finder 🍳
 
 A React app that lets you search for recipes using the Spoonacular API.
 
-##Features
+## Features
 - Search recipes by name or ingredient
 - Pagination (6 recipes per page)
 - Skeleton loading cards
 - Empty state handling
 - Search on Enter key
 
-##Tech Stack
+## Tech Stack
 - React + Vite
 - Tailwind CSS
 - Spoonacular API
 
-##How to run
+## How to run
 1. Clone the repo
 2. Run `npm install`
 3. Add your Spoonacular API key to `.env` as `VITE_SPOONACULAR_API_KEY`
 4. Run `npm run dev`
 
-##Reflection
+## Reflection
 
 Date completed: 28/04/2026
 
